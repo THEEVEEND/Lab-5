@@ -1,0 +1,20 @@
+.changeButton {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer; 
+    transition: background-color 0.3s ease, filter 0.3s ease; 
+}
+
+.changeButton:hover {
+    background-color: #0056b3; 
+}
+
+
+.changeButton img {
+    max-width: 100px;
+    max-height: 100px;
+}

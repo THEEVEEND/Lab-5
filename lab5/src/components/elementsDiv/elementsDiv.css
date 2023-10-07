@@ -1,0 +1,74 @@
+.hiddenPart {
+    display: none;
+}
+
+.head1 {
+    position: absolute;
+    z-index: 10;
+    width: 93px;
+    left: 700px;
+    top: 400px;
+}
+
+.head2 {
+    position: absolute;
+    z-index: 10;
+    width: 86px;
+    left: 703px;
+    top: 399px;
+}
+
+.head3 {
+    position: absolute;
+    z-index: 10;
+    width: 93px;
+    left: 700px;
+    top: 400px;
+}
+
+.chest1 {
+    position: absolute;
+    z-index: 10;
+    width: 127px;
+    left: 670px;
+    top: 468px;
+}
+
+.chest2 {
+    position: absolute;
+    z-index: 10;
+    width: 127px;
+    left: 670px;
+    top: 468px;
+}
+.chest3 {
+    position: absolute;
+    z-index: 10;
+    width: 127px;
+    left: 670px;
+    top: 468px;
+}
+
+.legs1 {
+    position: absolute;
+    z-index: 10;
+    width: 83px;
+    left: 705px;
+    top: 559px;
+}
+
+.legs2 {
+    position: absolute;
+    z-index: 10;
+    width: 83px;
+    left: 705px;
+    top: 559px;
+}
+
+.legs3 {
+    position: absolute;
+    z-index: 10;
+    width: 83px;
+    left: 705px;
+    top: 559px;
+}
